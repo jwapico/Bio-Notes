@@ -1,0 +1,11 @@
+Everything is made of matter. Matter is made up of atoms, the smallest possible unit of matter. Atoms are made of many different subatomic particles, the relevant ones being protons, neutrons, and electrons. Protons are positively charged, electrons negatively charged, and neutrons are electrically neutral. Protons and neutrons are located in the center of the atom, called the atomic nucleus, while electrons float in a space around the nucleus called the electron cloud. The [[Electrons|electrons]] are held near the nucleus by the attraction of their opposite charge to the protons, and store the potential energy that allow for chemical reactions.
+
+![[Pasted image 20251014185915.png]]
+
+The number of protons in an atom determines which **element** it is, and the elements atomic number. Protons and neutrons have mass which when combined form the elements *atomic mass unit (amu)*. Electrons have a negligible amount of mass. A pure element is simply a collection of any number atoms which all have the same number of protons. An atom of a certain element can have differing numbers of neutrons, changing the elements atomic mass. These different forms of atoms of the same element are called [[Isotopes|isotopes]], and different isotopes can still exist within a single element. 
+
+![[Pasted image 20251014190447.png]]
+
+The [[Electrons|electrons]] are what determine the chemical properties of an atom/element, setting the electrical charge and storing the potential energy. Specifically, the number of unpaired **valence electrons** in the **valence shell** (outermost shell) is what determines these properties. Atoms with more valence electrons are less reactive, and atoms with a full valence shell are inert and completely unreactive.
+
+Different elements can come together through [[Chemical Bonds|chemical bonds]] to form molecules and compounds. A **molecule** is a structure made of two or more atoms bonded together that has a definite shape and numbers/ratios of atoms, while a **compound** is a structure made of two or more covalently bonded atoms of *different* elements bonded together. Thus, all compounds are molecules, but not all molecules are compounds. 

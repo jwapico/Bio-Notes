@@ -1,0 +1,7 @@
+Tags: #biology
+
+[Transcriptomics](https://en.wikipedia.org/wiki/Single-cell_transcriptomics) is the study of gene expression in an individual organism, tissue, cell, or group of cells. It allows us to simultaneously measure the RNA concentration of hundreds of thousands of genes, making it possible to reconstruct cellular developmental pathways, model transcriptional dynamics, and discover biomarkers. 
+
+Studies may be limited as often they provide measurements for whole tissues, showing the average expression profile for all cells in the tissue. Often, different cell types within the same tissue will have distinct roles and unique transcriptional profiles. Bulk assays may fail to recognize whether a change in expression is due to a change in regulation, or cellular composition of the sample, eg. one cell type comes to dominate the population.
+
+Using [[Trajectory Inference|trajectory inference]] we can attempt to arrange cells based on their progression through a dynamic process, and build models that allow us to infer things about this progression from RNA concentrations and environmental state.
