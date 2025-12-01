@@ -1,5 +1,0 @@
-**Horizontal gene transfer (HGT)** also known as **lateral gene transfer (LGT)** is the movement and incorporation of genetic material between organisms that occurs over the period of their *individual lifetimes.* It is different than **vertical gene transfer**, which is the traditional transmission of [[DNA]] from parent to offspring over the course of generations. 
-
-There are many different mechanisms for HGT, it most commonly occurs in prokaryotes through **transformation, transduction,** and **conjugation.** It is the primary mechanism for the spread of antibiotic resistance in bacteria, and generally plays a crucial role in speeding up evolution, as bacterium can acquire characteristics "ready-made." This allows branches of evolutionary tree to overlap and share innovations, negating the need for individual species to reinvent the wheel in order to converge on an evolutionary theme or adaptation.
-
-HGT is seen in all kingdoms of life, but most common and versatile in prokaryotic bacteria.
