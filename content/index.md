@@ -1,8 +1,8 @@
 ---
-title: Biology Notes
+title: Notes
 ---
 
-# Welcome to My Notes
+# Welcome to my Notes
 
 Hello! Everything is written by me for me, and things are constantly being added, changed, and removed. 
 
