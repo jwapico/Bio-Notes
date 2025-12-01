@@ -1,5 +1,3 @@
-Tags: #biology
-
 DNA (deoxyribonucleic acid) is a sequence of nucleotides that encodes all the proteins and molecular structures that make up an organism. 
 
 It is located in the nucleus of eukaryotic cells and the cytoplasm of prokaryotic cells in the form of chromosomes. Each chromosome contains hundreds or thousands of genes, each of which a sub-sequence in the DNA. A singular gene contains the information necessary to build a molecular structure, and a cells function and identity are determined by all of its genes.

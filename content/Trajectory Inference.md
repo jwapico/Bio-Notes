@@ -1,5 +1,3 @@
-Tags: #biology
-
 [Trajectory Inference](https://en.wikipedia.org/wiki/Trajectory_inference) seeks to characterize differences in gene expression by organizing cells along a continuous (but branching) path that represents the evolution of cellular state. It is commonly used in [[Transcriptomics]] to understand the evolution of **gene regulatory networks** and the effects of **transcription factors**
 
 ![[Slingshot-pseudotime.png]]

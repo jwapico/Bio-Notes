@@ -1,3 +1,1 @@
-Tags: #biology
-
 Modifying an organisms [[DNA]] through the use of technology.
