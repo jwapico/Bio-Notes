@@ -9,6 +9,8 @@ A **covalent bond** is the *sharing* of a pair of valence electrons by two atoms
 
 ![[Pasted image 20251015210957.png]]
 
+
+
 There are many different notations for this as seen below:
 
 ![[Pasted image 20251015211141.png]]
