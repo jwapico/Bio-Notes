@@ -1,9 +1,7 @@
 ---
-title: Home
+title: Biology Notes
 ---
 
 # Welcome to My Notes
 
-This is my published Obsidian vault, powered by Quartz.
-
-Use the sidebar or search to explore my notes!
+Use the sidebar or search to explore, everything is written by me for me.
