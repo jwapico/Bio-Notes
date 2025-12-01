@@ -1,0 +1,5 @@
+An isotope is a type of atom of a specific element with a varying number of neutrons. For example, one isotope of carbon is carbon-12, containing 6 neutrons (carbon has 6 protons), and another is carbon-13, containing 7 neutrons. Same element, different isotope, different amu.
+
+Some isotopes are radioactive, meaning they are unstable and the nucleus decays spontaneously, sometimes losing protons and thus changing the element. This process happens at a fixed rate and is independent of environmental conditions. Furthermore, the time it takes to decay is unique from isotope to isotope, and is defined as the isotopes **half-life**: the time it takes for 50% of the parent isotope to decay. Leveraging this property is how radiometric dating works, as we are able to calculate how many years have passed since an organism was fossilized or rock was formed by the different concentrations of radioactive isotopes in the substance. Radioactive isotopes have many uses in biology, one of which is tracking an element or compound through cellular processes such as respiration. 
+
+![[Pasted image 20251014191233.png]]

@@ -1,0 +1,13 @@
+Fungi are **osmotrophs**, meaning they secrete extracellular enzymes that perform their digestion outside the cell, then they absorb the soluble products across their cell wall and membrane. 
+
+The following pertains to filamentous fungi.
+
+The **mycelial network** that makes up the main 'body' (**mycelium**) of a fungal organism consists of potentially billions of interwoven **hyphae** linked together into complex networks. A **hypha** is a single thread like filament that can: fuse (**anastomose**) with other hyphae of the same organism, fuse (**non-self anastomose**) into the mycelial network of other compatible individuals/strains, or form **mycorrhizal** associations with the root structures of plants.
+
+- During anastomosis, the cell walls of the two fusing hypha dissolve, forming a continuous connection between them. This allows for the exchange of cytoplasm, nutrients, organelles, nuclei (in **heterokaryons**), and electrical and chemical signals.
+
+These fine, root like networks are what make up the main vegetative body of a fungus and are responsible for growth, nutrient absorption, and nutrient transport. This structure maximizes surface area in the substrate, allowing the organism to take up as many nutrients as possible and transport them within the network effectively. 
+
+Many fungi are capable of self-fertilization and asexual reproduction. They may also reproduce sexually with a separate, sexually compatible mycelial organism and pool genetic material in order for the fused **dikaryotic mycelium** to begin building the fruiting body. Mycelium of many fungi can fuse with many other strains of mycelial organisms if they are genetically similar enough, even if they aren't sexually compatible. Fungal self identity matters, but can "shade off into otherness gradually" - meaning the boundary between self and non-self is not binary, but quantitative and polymorphic, emphasizing the ecological aspects of fungal biology. In this case, a single cell can contain two or more genetically distinct nuclei, making it a **heterokaryon**.
+
+Hyphae can come together to form elaborate structures. The fruiting body of fungi are made up of organized and modified hyphae, not of a different cell type like seen in the fruiting structures of plants. Hyphae can also form into "cords" or rhizomorphs, large pipes formed of many hyphae that can transport water and nutrients much quicker than individual hypha.
