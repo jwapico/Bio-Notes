@@ -4,4 +4,6 @@ title: Biology Notes
 
 # Welcome to My Notes
 
-Use the sidebar or search to explore, everything is written by me for me.
+Everything is written by me for me, and things are constantly being added, changed or removed. 
+
+If you find something is wrong please feel free to email me at altizer16@outlook.com
