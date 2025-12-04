@@ -1,4 +1,4 @@
-Different atoms can come together to form **chemical bonds** through the interactions of free [[Electrons|electrons]] in the valence shells. The cumulative forces and interactions of these stronger and weaker bonds affect not only small groups of molecules, but different parts of larger structures such as proteins, nucleic acids, and even organism morphology, laying the foundation for the biochemistry of life.
+Different atoms can come together to form **chemical bonds** through the interactions of charges and free [[Electrons|electrons]] in valence shells. The cumulative forces and interactions of stronger and weaker bonds affect not only small groups of molecules, but different parts of larger structures such as proteins, nucleic acids, and even organism morphology, laying the foundation for the biochemistry of life.
 
 The morphology of these bonds, dictated by where electrons accumulate around an atom or molecule, is informed by [[Molecular Shape and Function|molecular shape and function]]. Chemical bonds form and break through [[Chemical Reactions|chemical reactions]], absorbing or releasing energy in the process.
 
