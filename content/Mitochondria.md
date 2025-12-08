@@ -1,0 +1,7 @@
+**Mitochondria** are found in almost all eukaryotic cells, and perform **cellular respiration**, catalyzing and transforming chemical energy containing molecules into ATP, a molecule that can be easily transported and converted into usable energy elsewhere within the cell. 
+
+Each of the two membranes enclosing the mitochondria is a phospholipid bilayer with a unique collection of embedded proteins. The outer layer is smooth, while the inner layer contains many infoldings called **cristae**, which increase the surface area of the membrane. The two membranes divide the organelle into two intra-organelle regions: the inter-membrane space, the region between the inner and outer bilayers, and the **mitochondrial matrix**, the space enclosed by the inner membrane. This matrix contains the mitochondrial [[DNA]] and [[The Endomembrane System#Ribosomes|ribosomes]], as well as many enzymes which aid in cellular respiration. Other enzymes, including the one that makes ATP, are embedded in the inner membrane, hence its evolved surface area.
+
+![[Pasted image 20251207175009.png]]
+
+As with [[Chloroplasts|chloroplasts]] exhibit dynamic behavior within the cell, growing, changing shape, and pinching off to duplicate. They are mobile and can move along tracks of the cytoskeleton within the cell.
