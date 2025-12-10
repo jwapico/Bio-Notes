@@ -2,4 +2,4 @@
 
 ![[Pasted image 20251207224638.png]]
 
-As with [[Mitochondria|mitochondria]], chloroplasts exhibit dynamic behavior within the cell, growing, changing shape, and pinching off to duplicate. They are mobile and, along with mitochondria and other organelles, can move along tracks of the cytoskeleton within the cell.
+As with [[Mitochondria|mitochondria]], chloroplasts exhibit dynamic behavior within the cell, growing, changing shape, and pinching off to duplicate. They are mobile and, along with mitochondria and other organelles, can move along tracks of the [[Cytoskeleton|cytoskeleton]] within the cell.

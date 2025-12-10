@@ -33,7 +33,7 @@ The basal body of which the cilia or flagella is anchored to in the cell is stru
 
 # Micro (Actin) Filaments
 
-**Microfilaments** are thin solid rods made out of a double twisted chain of globular proteins called **actin.** While they do occur as singular filaments, the chains can also be linked together to form a structural network when certain proteins bind to the chain, allowing for other filaments to connect and branch off the structure. 
+**Microfilaments** are thin solid rods made out of a double twisted chain of globular proteins called **actin.** While they may occur as singular filaments, the chains can also be linked together to form a structural network when certain proteins bind to the chain, allowing for other filaments to connect and branch off one another. 
 
 While microtubules serve primarily to resist *compression*, microfilaments work under *tension.* For example, a network of these filaments (*cortical microfilaments*), form under tension just inside the plasma membrane, further supporting the cells shape. This network forms the outer cytoplasmic layer of the cell, called the **cortex,** having a gel-like, semi-solid consistency distinct from the more fluidic solution in the interior cytoplasm. 
 

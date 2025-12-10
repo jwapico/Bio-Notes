@@ -4,4 +4,4 @@ Each of the two membranes enclosing the mitochondria is a phospholipid bilayer w
 
 ![[Pasted image 20251207175009.png]]
 
-As with [[Chloroplasts|chloroplasts]] exhibit dynamic behavior within the cell, growing, changing shape, and pinching off to duplicate. They are mobile and can move along tracks of the cytoskeleton within the cell.
+As with [[Chloroplasts|chloroplasts]] exhibit dynamic behavior within the cell, growing, changing shape, and pinching off to duplicate. They are mobile and can move along tracks of the [[Cytoskeleton|cytoskeleton]] within the cell.
