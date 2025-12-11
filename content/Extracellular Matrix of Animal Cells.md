@@ -1,0 +1,1 @@
+While animal cells lack the structured [[The Cell Wall|cell walls]] found in plants, they have an elaborate **extracellular matrix (ECM)** that has a variety of uses from nutrient transport to signaling. The ECM consists of 
