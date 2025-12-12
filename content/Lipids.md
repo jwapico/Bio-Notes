@@ -20,7 +20,7 @@ Organisms typically use fats as energy storage since the long hydrocarbon fatty 
 
 ![[Pasted image 20251114185332.png]]
 
-This arrangement makes up the **phospholipid bilayer** of the walls of cells and organelles, which is fundamental to cellular biology.
+This arrangement makes up the **phospholipid bilayer** of the [[Cell Membrane|membranes]] of cells and organelles, which is fundamental to cellular biology.
 
 
 ## Steroids
