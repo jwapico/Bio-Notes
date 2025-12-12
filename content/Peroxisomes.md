@@ -1,3 +1,3 @@
 **Peroxisomes** are single-membraned metabolic compartments containing enzymes that remove hydrogen atoms from various substrates and transfer them to oxygen, forming hydrogen peroxide ($H_2O_2$) as a by product. These reactions have many uses, some peroxisomes use oxygen to break down [[Lipids#Fats|fatty acids]] into smaller molecules transported to [[Mitochondria|mitochondria]] to be used in cellular respiration. Some may convert fatty acids into sugar, such as *glyoxysomes,* which are found in plant seeds. 
 
-Peroxisomes grow larger by incorporating proteins made in the [[The Endomembrane System#Endoplasmic Reticulum|ER]] and cytosol, as well as lipids made in the ER and within the peroxisome itself.
+Peroxisomes grow larger by incorporating proteins made in the [[Endomembrane System#Endoplasmic Reticulum|ER]] and cytosol, as well as lipids made in the ER and within the peroxisome itself.

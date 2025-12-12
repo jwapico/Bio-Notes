@@ -3,3 +3,5 @@ The **endomembrane system** is a network of membrane bound organelles responsibl
 ![[Pasted image 20251207171900.png]]
 
 The endomembrane system consists primarily of the [[Nucleus|nucleus]],  [[Endoplasmic Reticulum|endoplasmic reticulum (ER)]], and [[Golgi Apparatus|Golgi apparatus]], as well as involving [[Ribosomes|ribosomes]], [[Lysosomes|lysosomes]], and [[Vacuoles|vacuoles]].
+
+![[Pasted image 20251211190226.png]]![[Pasted image 20251211190314.png]]

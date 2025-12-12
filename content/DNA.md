@@ -11,4 +11,4 @@ DNA is expressed indirectly through **transcription** into RNA (mRNA), which is 
 
 The entire set of genetic instructions that an organism inherits is called its **genome**, and the entire set of proteins expressed by a given cell, tissue, or organism is a **proteome**. Likewise, the act of studying sets of genes is **genomics**, and sets of proteins, **proteomics**.
 
-> This process, the organelles involved, and the ways in which the resulting proteins are transported for use within the cell are outlined in [[The Endomembrane System|the endomembrane system.]]
+> This process, the organelles involved, and the ways in which the resulting proteins are transported for use within the cell are outlined in [[Endomembrane System|the endomembrane system.]]

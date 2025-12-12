@@ -1,4 +1,4 @@
-**Chloroplasts** are lens shaped double membraned organelles only found in plants and algae, and perform photosynthesis, converting light energy into energy dense sugar. Inside the chloroplast is another membranous system in the form of flat interconnected sacs called **thylakoids**, which may be stacked in some regions to form a **granum.** The plasm in the chloroplast outside of thylakoids is called the **stroma**, and contains the chloroplasts [[DNA]], [[The Endomembrane System#Ribosomes|ribosomes]], and enzymes. 
+**Chloroplasts** are lens shaped double membraned organelles only found in plants and algae, and perform photosynthesis, converting light energy into energy dense sugar. Inside the chloroplast is another membranous system in the form of flat interconnected sacs called **thylakoids**, which may be stacked in some regions to form a **granum.** The plasm in the chloroplast outside of thylakoids is called the **stroma**, and contains the chloroplasts [[DNA]], [[Endomembrane System#Ribosomes|ribosomes]], and enzymes. 
 
 ![[Pasted image 20251207224638.png]]
 
