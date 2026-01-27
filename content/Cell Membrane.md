@@ -13,8 +13,13 @@ Some proteins also appear to move in a highly directed manner, potentially guide
 
 ![[Pasted image 20251211200646.png]]
 
-> Membrane structure and fluidity affect its permeability and the function of membrane proteins and enzymes; as a result the composition must be fine tuned to the environment of the cell/organism. Many organisms have evolved the ability to change their lipid composition in response to environmental pressures. Plants for example increase the concentration of *unsaturated* phospholipids in the winter in order to maintain fluidity in the colder temperatures. 
+> Membrane structure and fluidity affect its permeability and the function of membrane proteins and enzymes; as a result the composition must be fine tuned to the environment of the cell/organism. Many organisms have evolved the ability to change their lipid composition in response to environmental pressures. Plants increase the concentration of *unsaturated* phospholipids in the winter in order to maintain fluidity in the colder temperatures. 
 
+Small non-polar molecules such as $CO_2$ and $O_2$ can passively diffuse across the membrane since they are hydrophobic like the lipid tails. Polar molecules passively diffuse through the membrane much slower since they are unlikely to make it past the tails. Ions and polar molecules are regulated more precisely through the use of **transmembrane proteins** which form a hydrophilic channel or selectively deforming structure (**carrier proteins**) which allow a specific ion or molecule to pass at regulatable rate. 
 
-# Membrane Proteins and Their Functions
+![[Pasted image 20260126202307.png]]
+
+Short, branched chains of [[carbohydrates]] may also bond to lipids or proteins in the membrane, transforming them into **glycolipids** and **glycoproteins** respectively. The carbohydrates on the extracellular side of the membrane may vary from species to species, individual to individual, or even cell to cell in the tissues of a single organism. The diversity of these structures is used in cell signaling and individuation. For example the different blood types are determined by their glycoproteins, whose characteristic structure is utilized by the immune system for recognition. The carbohydrates get built and attached to their lipids/proteins as the products move through the [[Endoplasmic Reticulum|ER]].
+
+![[Pasted image 20260126204409.png]]
 
