@@ -22,6 +22,8 @@ Small non-polar molecules such as $CO_2$ and $O_2$ can passively diffuse across 
 
 > Many ion channels function as **gated channels**, which only allow the ion to pass in response to an external stimulus which may be electrical or chemical. These gated channels allow for more elaborate control and feedback loops, and are utilized heavily by the nervous system in mammals. 
 
+![[Pasted image 20260126202307.png]]
+
 Generally, the flow of a molecule across a membrane is informed by the concentration gradient of that molecule across the membrane, which holds potential energy. The diffusion of these molecules across the membrane is called **passive transport** because it does not require energy from the cell. Diffusion of ions or molecules across transmembrane proteins is called **facilitated diffusion**.  The process is called **osmosis** when the molecule is water, and is greatly increased by the presence of **aquaporins**, which are transmembrane proteins consisting of 4 polypeptides each with their own hydrophilic channel.
 
 The diffusion of water across concentration gradients is also the mechanism behind tonicity, as water will diffuse across the cell membrane in order to relieve the gradient, which will cause the cell to shrink (give up water) or expand (take up water) depending on whether there are more non-penetrating solutes on the outside (hypertonic) or inside (hypotonic) of the cell. These dynamics are affected by the cell wall in plants, which allows for more careful regulation of water concentrations, with plant cells preferring an hypotonic environment which allows them to maintain **turgor pressure**. Organisms without cell walls evolve other methods for **osmoregulation** such as contractile vacuole pumps in protists that live in hypotonic environments.
@@ -44,7 +46,7 @@ Another form of active transport is **exocytosis**, which bundles macromolecules
 
 **Endocytosis** is generally the same process but in reverse, where the membrane sinks in forming a pocket that deepens and eventually pinches off, consuming part of the membrane that forms a new vesicle with the extracellular contents inside of it. 
 
-![[Pasted image 20260126202307.png]]
+![[Pasted image 20260126230144.png]]
 
 Short, branched chains of [[carbohydrates]] may also bond to lipids or proteins in the membrane, transforming them into **glycolipids** and **glycoproteins** respectively. The carbohydrates on the extracellular side of the membrane may vary from species to species, individual to individual, or even cell to cell in the tissues of a single organism. The diversity of these structures is used in cell signaling and individuation. For example the different blood types are determined by their glycoproteins, whose characteristic structure is utilized by the immune system for recognition. The carbohydrates get built and attached to their lipids/proteins as the products move through the [[Endoplasmic Reticulum|ER]].
 
