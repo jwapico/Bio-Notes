@@ -15,7 +15,15 @@ Some proteins also appear to move in a highly directed manner, potentially guide
 
 > Membrane structure and fluidity affect its permeability and the function of membrane proteins and enzymes; as a result the composition must be fine tuned to the environment of the cell/organism. Many organisms have evolved the ability to change their lipid composition in response to environmental pressures. Plants increase the concentration of *unsaturated* phospholipids in the winter in order to maintain fluidity in the colder temperatures. 
 
-Small non-polar molecules such as $CO_2$ and $O_2$ can passively diffuse across the membrane since they are hydrophobic like the lipid tails. Polar molecules passively diffuse through the membrane much slower since they are unlikely to make it past the tails. Ions and polar molecules are regulated more precisely through the use of **transmembrane proteins** which form a hydrophilic channel or selectively deforming structure (**carrier proteins**) which allow a specific ion or molecule to pass at regulatable rate. 
+# Transport
+
+Small non-polar molecules such as $CO_2$ and $O_2$ can passively diffuse across the membrane since they are hydrophobic like the lipid tails. Polar molecules passively diffuse through the membrane much slower since they are unlikely to make it past the tails. Ions and polar molecules are regulated more precisely through the use of **transmembrane proteins** which form a hydrophilic channel or selectively deforming structure (**carrier proteins**) which is specialized to allow only a specific ion or molecule to pass.
+
+> Many ion channels function as **gated channels**, which only allow the ion to pass in response to an external stimulus which may be electrical or chemical. These gated channels allow for more elaborate control and feedback loops, and are utilized heavily by the nervous system in mammals. 
+
+Generally, the flow of a molecule across a membrane is informed by the concentration gradient of that molecule across the membrane, which holds potential energy. The diffusion of these molecules across the membrane is called **passive transport** because it does not require energy from the cell. Diffusion of ions or molecules across transmembrane proteins is called **facilitated diffusion**.  The process is called **osmosis** when the molecule is water, and is greatly increased by the presence of **aquaporins**, which are transmembrane proteins consisting of 4 polypeptides each with their own hydrophilic channel.
+
+The diffusion of water across concentration gradients is also the mechanism behind tonicity, as water will diffuse across the cell membrane in order to relieve the gradient, which will cause the cell to shrink (give up water) or expand (take up water) depending on whether there are more non-penetrating solutes on the outside (hypertonic) or inside (hypotonic) of the cell. These dynamics are affected by the cell wall in plants, which allows for more careful regulation of water concentrations, with plant cells preferring an hypotonic environment which allows them to maintain **turgor pressure**. Organisms without cell walls evolve other methods for **osmoregulation** such as contractile vacuole pumps in protists that live in hypotonic environments.
 
 ![[Pasted image 20260126202307.png]]
 
