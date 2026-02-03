@@ -3,3 +3,6 @@ Genetics does not specify a hardwired arrangements, it specifies a highly flexib
 ![[Pasted image 20260202172516.png]]
 
 ^ modifying local voltage gradients via introduction of ion channel mRNA into a group of cells to induce morphogenetic properties
+
+https://github.com/betsee/betse
+- cool bioelectric tissue simulation software
