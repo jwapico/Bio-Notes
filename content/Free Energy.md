@@ -1,16 +1,3 @@
-# Thermodynamics 
-
-**First Law of Thermodynamics:** Energy can be transferred and transformed, but not created or destroyed. Principle of *conservation of energy*.
-
-**Second Law of Thermodynamics:** Every energy transfer or transformation increases the entropy of the universe. 
-
-> **Entropy** is a measure of disorder (randomness, chaos) within a system
-
-If a process leads to an increase in entropy, it can proceed without any input energy because the process itself is energetically favorable. These are **spontaneous processes,** examples of which include water flowing downhill and diffusion, any case in which the system transforms from *high free energy to low free energy*.
-
-
-# Free Energy
-
 **Free energy** is the proportion of a systems energy that can perform work when temperature and pressure are uniform. Change in free energy is modeled by the following equation (Gibbs free energy):
 $$\Delta G = \Delta H - T \Delta S$$
 > $\Delta G$ represents the change in free energy, $\Delta H$ represents the change in enthalpy (total energy in a biological system), $T$ represents the absolute temperature in kelvin, and $\Delta S$ represents the change in entropy in the system. 
@@ -21,5 +8,11 @@ For a system to be at equilibrium it must be at its lowest possible free energy 
 
 ![[Pasted image 20260203195721.png]]
 
-> Spontaneous processes may also be called **exergonic reactions**, which have a $-\Delta G$, releasing free energy. **Endergonic reactions** on the other hand increase the free energy ($+\Delta G$), and are non spontaneous, with the magnitude of $\Delta G$ corresponding to the minimum amount of energy required to drive that transition. 
+> Spontaneous processes may also be called **exergonic reactions** (downhill transformations), which have a $-\Delta G$, releasing free energy. **Endergonic reactions** (uphill transformations) on the other hand increase the free energy ($+\Delta G$), and are non spontaneous, with the magnitude of $\Delta G$ corresponding to the minimum amount of energy required to drive that transition. 
+
+Metabolism never being at equilibrium is one of the defining features of life. A cell at metabolic equilibrium is dead since it would no longer have the capacity to do work. Catabolic pathways release free energy in a series of steps which the cell can utilize to perform work. This is exemplified by cellular respiration, in which the products of one catabolic step become the reactants of the next, preventing the buildup of products and thus keeping the system away from equilibrium. For this process to be sustainable the cell must additionally expel waste products and intake new nutrients.
+
+![[Pasted image 20260203200726.png]]
+
+>Reactants and end products of cellular respiration. $\Delta G$ is negative meaning the transformation is energetically favorable and can perform work. 
 
