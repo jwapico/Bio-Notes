@@ -4,4 +4,4 @@ A simple case of this is in the metabolic pathways in eukaryotes, which enclose 
 
 A more complex case is exemplified in neural systems in which top down feedback loops filter specific information down to lower layer neurons allowing them to respond to local features in an optimal way by integrating the distilled higher level context.
 
-In all cases, any cognitive/functional activity is both informed by, but also largely ignorant of the processes happening at the other levels in the holobiont, in which they are contextualized. 
+In all cases, any cognitive/functional activity is contextualized by the processes happening at the other levels in the holobiont, while each level of subunit does not need to know anything about the problem spaces of the other levels. Each level simply appears to be minimizing its free energy, which is why if you zoom in far enough to any level of 'decision making', the processes can appear mechanical or just physics.
